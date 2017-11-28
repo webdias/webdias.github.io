@@ -32,7 +32,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 32,
+    "uniqCompNum": 34,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -46,7 +46,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -903,7 +903,7 @@
     "acompanhantes.html": {
       "settings": {
         "main": true,
-        "title": "acompanhantes",
+        "title": "index.html",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1747,7 +1747,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Anuncie ",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2241,7 +2241,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
