@@ -740,8 +740,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail !</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fale pelo whatsapp</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/consumidor-600-600x600.png",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/consumidor-607-600x600.png",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -774,8 +774,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail !</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fale pelo&nbsp;whatsapp</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/consumidor-1024x601.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/direito-civil-banner-4-927x357.png",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
