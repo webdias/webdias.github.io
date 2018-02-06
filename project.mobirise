@@ -774,7 +774,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail !</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fale pelo&nbsp;whatsapp</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/direito-de-familia-1-900x601.jpg",
+                "image": "@PROJECT_PATH@/assets/images/direito-de-familia-2-900x601.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
