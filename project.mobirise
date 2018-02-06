@@ -32,7 +32,7 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 12,
+    "uniqCompNum": 13,
     "versionPublish": "4.5.2"
   },
   "pages": {
@@ -684,17 +684,16 @@
             ".mbr-overlay ~ .container-slide": {
               "z-index": "auto"
             },
-            "H2": {
-              "text-align": "right"
-            },
             "P": {
-              "text-align": "right"
+              "text-align": "center"
+            },
+            "H2": {
+              "text-align": "center"
             }
           },
           "_name": "slider1",
           "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-carousel=\"slides\" class=\"full-screen\" mbr-carousel-embedded></div>\n\n</section>",
-          "_cid": "qIN4B0wG9e",
-          "_anchor": "slider1-2",
+          "_cid": "qIUHZKDvUl",
           "_protectedParams": [
             "slides__autoplay",
             "slides__autoplayInterval",
@@ -704,27 +703,10 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": true,
+            "slides__autoplay": false,
             "slides__autoplayInterval": 4000,
             "slides__showBullets": true,
             "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/bafometro-topo-900x603.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "Problemas com as novas leis de transito?&nbsp;",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Bafômetro, suspensão e cassação da CNH... <b>Podemos ajudar você !</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail !</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fale pelo&nbsp;whatsapp</a>"
-              },
               {
                 "image": "@PROJECT_PATH@/assets/images/carteiraeditada-1280x720.jpg",
                 "active": false,
@@ -734,30 +716,13 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "title": "&nbsp; &nbsp; Reforma trabalhista<br>&nbsp; &nbsp;dúvidas?",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail !</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fale pelo whatsapp</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/consumidor-62-600x600.png",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
                 "customStyle2": "display-5",
-                "customStyle3": "display-7",
-                "title": "",
+                "customStyle3": "display-4",
+                "title": "Reforma trabalhista\r<div>&nbsp; &nbsp;dúvidas?</div>",
                 "overlay": true,
-                "contentAlign": "left",
+                "contentAlign": "center",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-7 btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fale pelo whatsapp</a> <a data-app-btn=\"true\" class=\"btn  display-7 btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail !</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"https://api.whatsapp.com/send?1=pt_BR&amp;phone=5571993236497\" data-toolbar=\"-mbrBtnMove\">Fale pelo whatsapp</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"mailto:jacquelineandrade.adv@gmail.com\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/inss-1024x683.jpg",
@@ -773,28 +738,63 @@
                 "title": "O INSS negou o seu benefício ?&nbsp;",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Podemos ajudar você !",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail !</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fale pelo&nbsp;whatsapp</a>"
+                "text": "<b>Podemos ajudar você !&nbsp;</b><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" href=\"https://api.whatsapp.com/send?1=pt_BR&amp;phone=5571992350923\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fale pelo whatsapp</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"mailto:marildaandrade.adv@gmail.com\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/familia-1-1080x675.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/bafometro-topo-900x603.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
-                "customStyle3": "display-7",
-                "title": "",
+                "customStyle3": "display-4",
+                "title": "Problemas com as novas leis de transito?",
                 "overlay": true,
-                "contentAlign": "left",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-7 btn-success\" href=\"https://api.whatsapp.com/send?1=pt_BR&amp;phone=5571991872531\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fale pelo whatsapp</a> <a data-app-btn=\"true\" class=\"btn  display-7 btn-primary\" href=\"https://api.whatsapp.com/send?1=pt_BR&amp;phone=5571991872531\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail !</a>"
+                "contentAlign": "center",
+                "text": "Bafômetro, suspensão e cassação da CNH... <b>Podemos ajudar você !</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" href=\"https://api.whatsapp.com/send?1=pt_BR&amp;phone=5571986332444\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fale pelo whatsapp</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"mailto:natanaelandrade29@hotmail.com\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/consumidor-62-600x600.png",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Direito do Consumidor",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "d",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" href=\"https://api.whatsapp.com/send?1=pt_BR&amp;phone=5571993306164\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fale pelo whatsapp</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"mailto:alcs2010@gmail.com\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/familia-1080x675.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Família",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Você sabe quais são os seus direitos ?",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" href=\"https://api.whatsapp.com/send?1=pt_BR&amp;phone=5571993306164\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fale pelo whatsapp</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"mailto:alcs2010@gmail.com\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail</a>"
               }
             ]
-          }
+          },
+          "_anchor": "slider1-c"
         },
         {
           "_styles": {
@@ -1133,7 +1133,7 @@
             }
           },
           "_name": "form4",
-          "_customHTML": "<section class=\"mbr-section form4\" group=\"Forms\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"6\">\n\n        <input type=\"map\" title=\"Map\" name=\"googleMap\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Icons\" name=\"showIcons\" checked>\n        <input type=\"checkbox\" title=\"Show Subheading\" name=\"showSubheading\" checked>\n        <input type=\"checkbox\" title=\"Show Contacts\" name=\"showContacts\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Form\" name=\"showForm\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background1.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-6\">\n                <div class=\"google-map\" mbr-map=\"googleMap\">\n                </div>\n            </div>\n            <div class=\"col-md-6\">\n                <h2 mbr-if=\"showTitle\" class=\"pb-3 align-left mbr-fonts-style\" mbr-theme-style=\"display-2\">Fale conosco</h2>\n                <div>\n                    <div class=\"icon-block pb-3\">\n                        <span mbr-if=\"showIcons\" class=\"icon-block__icon\">\n                            <span mbr-icon class=\"mbri-letter mbr-iconfont\"></span>\n                        </span>\n                        <h4 mbr-if=\"showSubheading\" class=\"icon-block__title align-left mbr-fonts-style\" mbr-theme-style=\"display-5\">Será um prazer responder seu e-mail.</h4>\n                    </div>\n                    <div class=\"icon-contacts pb-3\" mbr-if=\"showContacts\">\n                        <h5 mbr-if=\"showSubtitle\" class=\"align-left mbr-fonts-style\" mbr-theme-style=\"display-7\">Nosso Principal contato</h5>\n                        <p mbr-if=\"showText\" class=\"mbr-text align-left mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">Telefone: 55 (71) 000 0000&nbsp;<br>Email: .....@mail.com</p>\n                    </div>\n                </div>\n                <div mbr-form mbr-if=\"showForm\">\n                    <div data-form-alert hidden>Obridago, sua mensagem chegou com sucesso!</div>\n                    <form class=\"block mbr-form\" action=\"alcs2010@gmail.com\" method=\"post\" name=\"Mobirise Form\">\n                        <div class=\"row\">\n                            <div class=\"col-md-6 multi-horizontal\" data-for=\"name\">\n                                <input type=\"text\" class=\"form-control input\" name=\"name\" data-form-field=\"Name\" placeholder=\"Seu nome\" required>\n                            </div>\n                            <div class=\"col-md-6 multi-horizontal\" data-for=\"phone\">\n                                <input type=\"text\" class=\"form-control input\" name=\"phone\" data-form-field=\"Phone\" placeholder=\"Telefone\" required>\n                            </div>\n                            <div class=\"col-md-12\" data-for=\"email\">\n                                <input type=\"text\" class=\"form-control input\" name=\"email\" data-form-field=\"Email\" placeholder=\"Email\" required>\n                            </div>\n                            <div class=\"col-md-12\" data-for=\"message\">\n                                <textarea class=\"form-control input\" name=\"message\" rows=\"3\" data-form-field=\"Message\" placeholder=\"Informe o que você está precisando.\" style=\"resize:none\"></textarea>\n                            </div>\n                            <div class=\"input-group-btn col-md-12\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\" style=\"margin-top: 10px;\"><a href type=\"submit\" class=\"btn btn-primary btn-form\">Enviar mensagem</a></div>\n                        </div>\n                    </form>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section form4\" group=\"Forms\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"3\">\n\n        <input type=\"map\" title=\"Map\" name=\"googleMap\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Icons\" name=\"showIcons\" checked>\n        <input type=\"checkbox\" title=\"Show Subheading\" name=\"showSubheading\" checked>\n        <input type=\"checkbox\" title=\"Show Contacts\" name=\"showContacts\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Form\" name=\"showForm\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background1.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-6\">\n                <div class=\"google-map\" mbr-map=\"googleMap\">\n                </div>\n            </div>\n            <div class=\"col-md-6\">\n                <h2 mbr-if=\"showTitle\" class=\"pb-3 align-left mbr-fonts-style\" mbr-theme-style=\"display-2\">Fale conosco</h2>\n                <div>\n                    <div class=\"icon-block pb-3\">\n                        <span mbr-if=\"showIcons\" class=\"icon-block__icon\">\n                            <span mbr-icon class=\"mbri-letter mbr-iconfont\"></span>\n                        </span>\n                        <h4 mbr-if=\"showSubheading\" class=\"icon-block__title align-left mbr-fonts-style\" mbr-theme-style=\"display-5\">Será um prazer responder seu e-mail.</h4>\n                    </div>\n                    <div class=\"icon-contacts pb-3\" mbr-if=\"showContacts\">\n                        <h5 mbr-if=\"showSubtitle\" class=\"align-left mbr-fonts-style\" mbr-theme-style=\"display-7\">Nosso Principal contato</h5>\n                        <p mbr-if=\"showText\" class=\"mbr-text align-left mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">Telefone: 55 (71) 000 0000&nbsp;<br>Email: .....@mail.com</p>\n                    </div>\n                </div>\n                <div mbr-form mbr-if=\"showForm\">\n                    <div data-form-alert hidden>Obridago, sua mensagem chegou com sucesso!</div>\n                    <form class=\"block mbr-form\" action=\"alcs2010@gmail.com\" method=\"post\" name=\"Mobirise Form\">\n                        <div class=\"row\">\n                            <div class=\"col-md-6 multi-horizontal\" data-for=\"name\">\n                                <input type=\"text\" class=\"form-control input\" name=\"name\" data-form-field=\"Name\" placeholder=\"Seu nome\" required>\n                            </div>\n                            <div class=\"col-md-6 multi-horizontal\" data-for=\"phone\">\n                                <input type=\"text\" class=\"form-control input\" name=\"phone\" data-form-field=\"Phone\" placeholder=\"Telefone\" required>\n                            </div>\n                            <div class=\"col-md-12\" data-for=\"email\">\n                                <input type=\"text\" class=\"form-control input\" name=\"email\" data-form-field=\"Email\" placeholder=\"Email\" required>\n                            </div>\n                            <div class=\"col-md-12\" data-for=\"message\">\n                                <textarea class=\"form-control input\" name=\"message\" rows=\"3\" data-form-field=\"Message\" placeholder=\"Informe o que você está precisando.\" style=\"resize:none\"></textarea>\n                            </div>\n                            <div class=\"input-group-btn col-md-12\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\" style=\"margin-top: 10px;\"><a href type=\"submit\" class=\"btn btn-primary btn-form\">Enviar mensagem</a></div>\n                        </div>\n                    </form>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qIUvAnPmBj",
           "_anchor": "form4-b",
           "_protectedParams": [],
