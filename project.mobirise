@@ -724,7 +724,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/carteiraeditada-1280x720.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -740,11 +740,11 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail !</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fale pelo whatsapp</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/direito-do-consumidor2-800x500.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/consumidor-600-600x600.png",
+                "active": true,
                 "showButtons": true,
-                "showText": false,
-                "showTitle": false,
+                "showText": true,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
@@ -772,6 +772,23 @@
                 "contentAlign": "center",
                 "text": "Podemos ajudar você !",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail !</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fale pelo&nbsp;whatsapp</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/consumidor-1024x601.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-7",
+                "title": "",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-7 btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fale pelo whatsapp</a> <a data-app-btn=\"true\" class=\"btn  display-7 btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail !</a>"
               }
             ]
           }
