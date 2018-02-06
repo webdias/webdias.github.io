@@ -740,7 +740,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail !</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fale pelo whatsapp</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/consumidor-607-600x600.png",
+                "image": "@PROJECT_PATH@/assets/images/consumidor-62-600x600.png",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -774,7 +774,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Envie um e-mail !</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fale pelo&nbsp;whatsapp</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/direito-civil-banner-4-927x357.png",
+                "image": "@PROJECT_PATH@/assets/images/direito-de-familia-1-900x601.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
